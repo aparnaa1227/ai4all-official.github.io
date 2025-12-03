@@ -2,6 +2,11 @@
 pandas
 scikit-learn
 joblib
+streamlit
+scikit-learn
+imbalanced-learn
+pandas
+numpy
 
 
 #If running this code on Google Colab, use the following code to access the dataset directly from Kaggle 
