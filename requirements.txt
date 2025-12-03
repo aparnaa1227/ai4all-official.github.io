@@ -3,7 +3,6 @@ pandas
 scikit-learn
 joblib
 streamlit
-scikit-learn
 imbalanced-learn
 pandas
 numpy
