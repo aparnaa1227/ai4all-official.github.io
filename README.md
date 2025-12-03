@@ -1,4 +1,4 @@
-#Predictive Model for Credit Card Defaulting
+## Predictive Model for Credit Card Defaulting
 
 Using the credit card defaulter dataset, we employed Python techniques and data analysis to discover the patterns behind customer payments and predict whether they would make the payments or not - all within AI4All's Ignite accelerator
 
