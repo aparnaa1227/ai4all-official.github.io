@@ -76,6 +76,15 @@ print(f"Accuracy: {accuracy}") #Accuracy rate: 0.8143333333333334
 joblib.dump(model, "rf_model.sav")
 
 print("\nDetailed Report:\n", classification_report(y_test, y_pred))
+#Detailed Report:
+#               precision   recall   f1-score   support
+
+#          0       0.84      0.95      0.89      4687
+#          1       0.64      0.34      0.45      1313
+
+#    accuracy                           0.81      6000
+#   macro avg       0.74      0.64      0.67      6000
+#weighted avg       0.79      0.81      0.79      6000
 
 
 # Splits the data 5 different ways and averages the result to confirm accuracy
